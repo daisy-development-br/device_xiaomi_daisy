@@ -149,6 +149,13 @@ PRODUCT_COPY_FILES += \
     $(TOPDIR)frameworks/av/services/audiopolicy/config/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/r_submix_audio_policy_configuration.xml \
     $(TOPDIR)frameworks/av/services/audiopolicy/config/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml
 
+# Bluetooth
+PRODUCT_PACKAGES += \
+    libbluetooth_qti \
+    libbt-logClient.so \
+    libbtconfigstore \
+    libbt-vendor
+
 # Camera
 PRODUCT_PACKAGES += \
     android.frameworks.cameraservice.common@2.0 \
