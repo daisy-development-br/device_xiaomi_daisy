@@ -1,4 +1,4 @@
-# Device Tree for Xiaomi Redmi 6 Pro (sakura)
+# Device Tree for Xiaomi Mi A2 Lite (daisy)
 
 ## Spec Sheet
 
@@ -21,4 +21,4 @@
 
 ## Device Picture
 
-![Xiaomi Redmi 6 Pro](https://xiaomi.world/9773-large_default/xiaomi-redmi-6-pro-4-gb-64-gb-rosso.jpg "Xiaomi Redmi 6 Pro")
+![Xiaomi Mi A2 Lite](https://camo.githubusercontent.com/2f3c10fc38bc28512c9e5d5512374260ab02a6f7/68747470733a2f2f6930312e6170706d6966696c652e636f6d2f77656266696c652f676c6f62616c696d672f70726f64756374732f70632f4431532f626c61636b5f70686f6e652e706e67 "Xiaomi Mi A2 Lite")
