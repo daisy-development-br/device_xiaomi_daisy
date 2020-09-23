@@ -14,9 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/p404_daisy.mk
-
-COMMON_LUNCH_CHOICES := \
-    p404_daisy-user \
-    p404_daisy-userdebug \
-    p404_daisy-eng
+    $(LOCAL_DIR)/statix_daisy.mk
